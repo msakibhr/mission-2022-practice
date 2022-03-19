@@ -1,6 +1,5 @@
 .top-heading {
     font-family: 'Yeseva One', cursive;
-    /* font-size: 60px; */
 }
 h1 {
     font-size: 50px;
@@ -35,10 +34,11 @@ p {
 
 .half-width {
     width: 50%;
-    padding-left: 4%;
+    padding-left: 2%;
 }
 .half-width img {
     width: 70%;
+    padding-left: 125px;
 }
 .top-banner {
     margin-bottom: 100px;
@@ -52,7 +52,6 @@ p {
     padding-left: 10px;
 }
 .link-button {
-    font-family: 'Poppins', sans-serif;
     text-decoration: none;
     background-color: #FF5959;
     padding: 10px 40px;
@@ -89,11 +88,21 @@ p {
 }
 .dev-area {
     padding: 25px;
+    margin-bottom: 100px;
 }
 .dev-area img {
     width: 35%;
-    height: 100%;
 }
 .limit {
-    padding: 50px;
+    padding-left: 50px;
+}
+.community-area {
+    padding: 25px;
+    margin-bottom: 100px;
+}
+.community-area img {
+    width: 35%;
+}
+.know {
+    padding-right: 50px;
 }
